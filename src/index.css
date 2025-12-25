@@ -1,0 +1,257 @@
+@font-face {
+  font-family: "Lora";
+  font-weight: 400;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/lora/n4.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/lora/n4.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-weight: 400;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/lora/i4.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/lora/i4.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-weight: 500;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/lora/n5.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/lora/n5.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-weight: 500;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/lora/i5.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/lora/i5.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-weight: 600;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/lora/n6.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/lora/n6.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-weight: 600;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/lora/i6.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/lora/i6.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-weight: 700;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/lora/n7.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/lora/n7.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-weight: 700;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/lora/i7.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/lora/i7.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 100;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/n1.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/n1.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 100;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/i1.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/i1.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 200;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/n2.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/n2.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 200;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/i2.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/i2.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/n3.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/n3.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/i3.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/i3.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/n4.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/n4.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/i4.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/i4.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/n5.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/n5.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/i5.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/i5.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/n6.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/n6.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/i6.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/i6.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/n7.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/n7.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/i7.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/i7.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/n8.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/n8.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/i8.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/i8.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-style: normal;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/n9.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/n9.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-style: italic;
+  src: url(//assets-pw.pixieset.com/gf/montserrat/i9.woff2) format("woff2"), url(//assets-pw.pixieset.com/gf/montserrat/i9.woff) format("woff");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Montserrat', sans-serif;
+    @apply text-primary antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+  }
+  
+  p {
+    font-family: 'Lora', serif;
+  }
+}
+
+@layer utilities {
+  .img-absolute-fill {
+    @apply absolute inset-0 w-full h-full object-cover;
+  }
+  
+  .absolute-fill {
+    @apply absolute inset-0;
+  }
+}
+
+/* Hero slider arrow styling (matching ps-arrow, ps-arrow--right, ps-arrow--xl) */
+.ps-arrow {
+  position: relative;
+  display: inline-block;
+  width: 80px;
+  height: 1px;
+}
+
+.ps-arrow::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.7);
+  transform: translateY(-50%);
+}
+
+.ps-arrow--xl {
+  width: 110px;
+}
+
+.ps-arrow--right::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 0;
+  border-style: solid;
+  border-width: 4px 0 4px 7px;
+  border-color: transparent transparent transparent rgba(255, 255, 255, 0.7);
+  transform: translateY(-50%);
+}
+
+.ps-arrow--left::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  border-style: solid;
+  border-width: 4px 7px 4px 0;
+  border-color: transparent rgba(255, 255, 255, 0.7) transparent transparent;
+  transform: translateY(-50%);
+}
+
