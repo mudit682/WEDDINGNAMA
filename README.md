@@ -171,4 +171,3 @@ You can customize the website by:
 ## License
 
 This project is for educational purposes.
-
